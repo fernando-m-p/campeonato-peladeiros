@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "tabela-campeonato-9dce1"
+  },
+  "targets": {
+    "tabela-campeonato-9dce1": {
+      "hosting": {
+        "campeonato-peladeiros": [
+          "tabela-campeonato-9dce1"
+        ]
+      }
+    }
+  }
+}

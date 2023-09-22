@@ -1,8 +1,8 @@
-.example-spacer {
-    flex: 1 1 auto;
-  }
-
-  .mat-toolbar.mat-primary {
-    --mat-toolbar-container-background-color: #499615;
-    --mat-toolbar-container-text-color: white;
+.mat-toolbar.mat-primary {
+  --mat-toolbar-container-background-color: #499615;
+  --mat-toolbar-container-text-color: white;
+}
+.nome-campeonato {
+  flex: 1 1 auto;
+  text-align: center;
 }
